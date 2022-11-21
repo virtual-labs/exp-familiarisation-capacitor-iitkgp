@@ -8,7 +8,7 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
-<b>Discipline | <b> Computer Science and  Engineering 
+<b>Discipline | <b> Electronics and Communication and Engineering 
 :--|:--|
 <b> Lab | <b> **Basic Electronics**
 <b> Experiment|     <b> **Familiarisation with Capacitor and Experiment 2**

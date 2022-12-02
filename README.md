@@ -8,13 +8,15 @@
 <img src="experiment/images/iitkgp.png" width="10%">
 </div>
 
+### About the Experiment
+
 <b>Discipline | <b> Electronics and Communication and Engineering 
 :--|:--|
 <b> Lab | <b> **Basic Electronics**
 <b> Experiment|     <b> **Familiarisation with Capacitor and Experiment 2**
 
 
-### About the Experiment 
+### Subject Matter Expert 
 
 <!--Fill a brief description of this experiment here-->
 

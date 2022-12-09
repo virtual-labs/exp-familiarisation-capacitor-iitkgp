@@ -1,4 +1,4 @@
-### Aim of the experiment
+## Aim of the experiment
 
 After the end of this module the student would be able to
 - Provide a definition of capacitor and name its units

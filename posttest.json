@@ -1,0 +1,40 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Two capacitors 470μF capacitors connected in parallel are subjected to a total applied voltage that changes at a rate of 200 volts per sec.How much total current will there be through these capacitors?",
+        "answers": {
+          "a": "47 mA",
+          "b": "18 mA",
+          "c": "188 uF",
+          "d": "18.8 mA"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is correct",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Two 470μF capacitors connected in series are subjected to a total applied voltage that changes at a rate of 200 volts per sec. How much current will there be through these capacitors?(Hint :The total voltage is divided evenly between the two capacitors.)",
+        "answers": {
+          "a": "47 mA",
+          "b": "470 mA",
+          "c": "94 mA",
+          "d": "940 mA"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is correct  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

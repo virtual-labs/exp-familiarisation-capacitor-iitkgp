@@ -1,0 +1,40 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Two 33 μF capacitors are connected in series with each other. What will their combined capacitance be in Farads?",
+        "answers": {
+          "a": "66uF",
+          "b": "120uF",
+          "c": "16.5uF",
+          "d": "200uF"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is correct",
+          "d": "You have choosen option (d). The answer is incorrect"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "A 10μF capacitor is charged to a voltage of 20 volts.How many coulombs of electric charge are stored in this capacitor?",
+        "answers": {
+          "a": "20uC of charge",
+          "b": "120uC of charge",
+          "c": "20mC of charge",
+          "d": "200uC of charge"
+        },
+        "explanations": {
+          "a": "You have choosen option (a). The answer is incorrect  ",
+          "b": "You have choosen option (b). The answer is incorrect",
+          "c": "You have choosen option (c). The answer is incorrect",
+          "d": "You have choosen option (d). The answer is correct"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

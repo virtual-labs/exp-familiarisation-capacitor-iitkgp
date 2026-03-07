@@ -159,7 +159,7 @@ $$C_eq=C_1+C_2$$
 Consider a circuit set up like the one at the side. What will happen when the switch is closed?
 The ammeter will
 
-- How a steady reading
+- Show a steady reading
 - Show a reading of ’0’
 - Flick back and forth
 - Flick on one side and come back to ‘0’

@@ -4,7 +4,7 @@
 It is one of the passive components like resistor. Capacitor is also known as condenser. Capacitor is generally used to store the charge. The charge is stored in the form of “electrical field”. Capacitors play a major role in many electrical and electronic circuits.
 
 <div align="center">
-<img src="images/i1.png" width="30%">
+<img src="images/i1.png" style="max-width:100%; height:auto;">
 <p>Figure: 1 </p>
 </div>
 
@@ -12,14 +12,14 @@ It is one of the passive components like resistor. Capacitor is also known as co
 
 The basic construction of all capacitors is of two parallel metal plates separated by an insulating material (the dielectric). An insulator is a material which is non-conducting i.e. it shows a high resistance to letting to electric used is air, other types are oil or paper. Real capacitors are made by taking thin strips of metal foil and the appropriate dielectric material and sandwiching them together.
 <div align="center">
-<img src="images/i2.png" width="30%">
+<img src="images/i2.png" style="max-width:100%; height:auto;">
 <p>Figure: 2 </p>
 </div>
 
 Capacitor achieve large area (thus large capacitance) by doing something tricky, such as putting a dielectric between 2 layers of metal foil and rolling it up like in this figure.
 
 <div align="center">
-<img src="images/i3.png" width="30%">
+<img src="images/i3.png" style="max-width:100%; height:auto;">
 <p>Figure: 3 </p>
 </div>
 
@@ -28,7 +28,7 @@ Capacitor achieve large area (thus large capacitance) by doing something tricky,
 A capacitor is so called because it has the capacity to store charge- just like a beaker storing a liquid. Capacitors are marked with a value which indicates their capacitance – their ability to store charge . Capacitance can be thought of as the “electrical capacity” of that body. It is measured in Farads.
 
 <div align="center">
-<img src="images/i4.png" width="30%">
+<img src="images/i4.png" style="max-width:100%; height:auto;">
 <p>Figure: 4 </p>
 </div>
 
@@ -56,7 +56,7 @@ They don't have positive and negative electrode | |
 ### Ceramic Capacitors
 
 <div align="center">
-<img src="images/capa3.png" width="30%">
+<img src="images/capa3.png" style="max-width:100%; height:auto;">
 <p>Figure: 5 </p>
 </div>
 
@@ -67,7 +67,7 @@ Ceramic capacitors are the most used capacitors in the electronics industry. Cer
 
 ### Electrolytic Capacitor
 <div align="center">
-<img src="images/i15.png" width="30%">
+<img src="images/i15.png" style="max-width:100%; height:auto;">
 <p>Figure: 6 </p>
 </div>
 Electrolytic capacitors are polarized and they must be connected the correct way round , atleast one of their leads will be marked + or – . It is very easy to find the values of electrolytic capacitors because they are clearly printed with their capacitance and voltage rating.
@@ -79,7 +79,7 @@ Electrolytic capacitors are polarized and they must be connected the correct way
 
 
 <div align="center">
-<img src="images/i16.png" width="30%">
+<img src="images/i16.png" style="max-width:100%; height:auto;">
 <p>Figure: 7 </p>
 </div>
 Tantalum bead capacitors are polarized and have low voltage ratings like electrolytic capacitors . Usually , the “+” symbol is used to show the positive component lead . Modern tantalum bead capacitors are printed with their capacitance voltage and polarity in full. However older ones use a color – code systems which has two stripes (for the two digits ) and a spot of color for the number of zeros to give the value in uF.
@@ -89,7 +89,7 @@ Tantalum bead capacitors are polarized and have low voltage ratings like electro
 
 
 <div align="center">
-<img src="images/i17.png" width="30%">
+<img src="images/i17.png" style="max-width:100%; height:auto;">
 <p>Figure: 8 </p>
 </div>
 The value printed but without a multiplier, so you need to use experience to work out what the multiplier should be! For example 0.1 means 0.1 pF. Sometimes the multiplier is used in place of the decimal point: For example: 4n7 means 4.7nF.
@@ -98,7 +98,7 @@ The value printed but without a multiplier, so you need to use experience to wor
 ## Un-polarized Capacitors — Capacitor Number Code
 
 <div align="center">
-<img src="images/i18.png" width="30%">
+<img src="images/i18.png" style="max-width:100%; height:auto;">
 <p>Figure: 9 </p>
 </div>
 A number code is often used on small capacitors where printing is difficult: The 1st number is the 1st digit, the 2nd number is the 2nd digit, the 3rd number is the number of zeros to give the capacitance in pF. Ignore any letters - they just indicate tolerance and voltage rating. For example: 102 means 1000pF (not 102pF!) For example: 472J means 4700pF (J means 5% tolerance).
@@ -106,7 +106,7 @@ A number code is often used on small capacitors where printing is difficult: The
 ### Un-polarized Capacitors — Capacitor Color Code
 
 <div align="center">
-<img src="images/i19.png" width="30%">
+<img src="images/i19.png" style="max-width:100%; height:auto;">
 <p>Figure: 10 </p>
 </div>
 
@@ -115,7 +115,7 @@ A number code is often used on small capacitors where printing is difficult: The
 Capacitors in series means two or more capacitors connected in a single line. Positive plate of the one capacitor is connected to the negative plate of the next capacitor.
 
 <div align="center">
-<img src="images/capa1.png" width="30%">
+<img src="images/capa1.png" style="max-width:100%; height:auto;">
 <p>Figure: 11 </p>
 </div>
 
@@ -141,7 +141,7 @@ $$\frac{1}{C_eq}=\frac{C_1C_2}{C_1+C_2}$$
 
 When the capacitors are connected in parallel the total capacitance value is increased. There are some applications where higher capacitance values are required.
 <div align="center">
-<img src="images/capa2.png" width="30%">
+<img src="images/capa2.png" style="max-width:100%; height:auto;">
 <p>Figure: 12 </p>
 </div>
 
@@ -159,13 +159,13 @@ $$C_eq=C_1+C_2$$
 Consider a circuit set up like the one at the side. What will happen when the switch is closed?
 The ammeter will
 
-- How a steady reading
+- Show a steady reading
 - Show a reading of ’0’
 - Flick back and forth
 - Flick on one side and come back to ‘0’
 
 <div align="center">
-<img src="images/i5.png" width="30%">
+<img src="images/i5.png" style="max-width:100%; height:auto;">
 <p>Figure: 13 </p>
 </div>
 
@@ -178,7 +178,7 @@ The Ammeter will
 - Flick on one sid and come back to ‘0’
 
 <div align="center">
-<img src="images/i6.png" width="30%">
+<img src="images/i6.png" style="max-width:100%; height:auto;">
 <p>Figure: 14 </p>
 </div>
 Let us extend this by placing a galvanometer on both sides of the capacitor and using a two-way switch .
@@ -190,7 +190,7 @@ For both of the Ammeters
 - Both flick briefly to right
 - They flick in opposite dirs
 <div align="center">
-<img src="images/i7.png" width="30%">
+<img src="images/i7.png" style="max-width:100%; height:auto;">
 <p>Figure: 15 </p>
 </div>
 
@@ -203,7 +203,7 @@ For both of the Ammeters
 - They flick in opposite dirs
 
 <div align="center">
-<img src="images/i8.png" width="30%">
+<img src="images/i8.png" style="max-width:100%; height:auto;">
 <p>Figure: 16 </p>
 </div>
 Instead of moving to ’P’ the first time ,if the switch is first moved to ‘O’ .
@@ -214,7 +214,7 @@ For both of the Ammeters
 - Both flick briefly to right
 - They flick in opposite dirs
 <div align="center">
-<img src="images/i9.png" width="30%">
+<img src="images/i9.png" style="max-width:100%; height:auto;">
 <p>Figure: 17 </p>
 </div>
 
@@ -224,7 +224,7 @@ The behaviour of the ammeter needles in the previous experiment suggests that a 
 - More charge flows off plate B than plate A
 - No charge flows at all
 <div align="center">
-<img src="images/i10.png" width="30%">
+<img src="images/i10.png" style="max-width:100%; height:auto;">
 <p>Figure: 18 </p>
 </div>
 
@@ -236,14 +236,14 @@ We say that the capacitor is charged up when connected to P and discharged when 
 
 The plate on the capacitor that attaches to the negative terminal of the battery accepts electrons that the battery is producing .The plate on the capacitor that attaches to the positive terminal of the battery loses electrons to the battery. Once it’s charged , the capacitor has the sam voltage as the battery.
 <div align="center">
-<img src="images/i11.png" width="30%">
+<img src="images/i11.png" style="max-width:100%; height:auto;">
 <p>Figure: 19 </p>
 </div>
 ### Charging - Question
 
 Here you have a battery ,light bulb and a capacitor .If they are connected – what will happen to the bulb?
 <div align="center">
-<img src="images/i12.png" width="30%">
+<img src="images/i12.png" style="max-width:100%; height:auto;">
 <p>Figure: 20 </p>
 </div>
 
@@ -254,7 +254,7 @@ Here you have a battery ,light bulb and a capacitor .If they are connected – w
 ### Discharging
 
 <div align="center">
-<img src="images/i13.png" width="30%">
+<img src="images/i13.png" style="max-width:100%; height:auto;">
 <p>Figure: 21 </p>
 </div>
 
